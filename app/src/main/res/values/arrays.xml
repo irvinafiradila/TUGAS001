@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="golongan">
+        <item>PMR Mula</item>
+        <item>PMR Madya</item>
+        <item>PMR Wira</item>
+    </string-array>
+</resources>
