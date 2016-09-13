@@ -10,6 +10,7 @@ NIS : 4727/1446.070
 Nama Sekolah : SMK TELKOM MALANG
 
 Penjelasan Program :
+
 1. Program saya buat ini adalah Form Pendaftaran untuk Lomba PMR Kota
 
 2. Pada form ini terdiri dari 1 image view, beberapa text view, 2 edit text, 2 radio button, 1 spinner, 1 radio group,  4 checkbox dan scoll view.
