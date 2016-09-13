@@ -28,6 +28,8 @@ Penjelasan Program :
 
 7.Tombol button(OK) yang akan memproses untuk memunculkan output Program pada "Hasil".
 
+https://drive.google.com/file/d/0B5ZhP0FU4Ll1cWZrTGhWUDhnNUU/view?usp=sharing
+
 
 ![Screenshot_2016-09-13-10-49-32] (https://github.com/irvinafiradila/TUGAS001/blob/master/Screenshot_2016-09-13-10-49-32.jpg)
 ![Screenshot_2016-09-13-10-49-49] (https://github.com/irvinafiradila/TUGAS001/blob/master/Screenshot_2016-09-13-10-49-49.jpg)
