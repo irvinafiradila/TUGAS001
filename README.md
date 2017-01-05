@@ -26,7 +26,7 @@ Penjelasan Program :
 ![Screenshot_2016-09-13-10-50-37] (https://github.com/irvinafiradila/TUGAS001/blob/master/Screenshot_2016-09-13-10-50-37.jpg)
 ![Screenshot_2016-09-13-10-50-46] (https://github.com/irvinafiradila/TUGAS001/blob/master/Screenshot_2016-09-13-10-50-46.jpg)
 
-https://drive.google.com/drive/u/0/folders/0B5ZhP0FU4Ll1WVB1eHRRRkJmc3M
+https://drive.google.com/file/d/0B5ZhP0FU4Ll1QW5CbmN3WFdZekE/view?usp=sharing
 
 Nama : IRVINA FIRADILA
 
